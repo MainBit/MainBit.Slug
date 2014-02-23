@@ -1,0 +1,11 @@
+﻿Name: MainBit.Slug
+AntiForgery: enabled
+Author: neTp9c
+Website: http://mainbit.com
+Version: 1.0
+OrchardVersion: 1.7
+Category: SEO
+Features:
+    MainBit.Slug:
+        Description: Translates Cyrillic content item title into English transliterate text. Words are separated with dashes.
+		Dependencies: Orchard.Autoroute
